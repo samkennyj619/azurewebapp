@@ -9,14 +9,14 @@
  },
  "repository": {
     "type": "git",
-    "url": "https://github.com/samkennyj619/web-app--002.git"
+    "url": "https://github.com/samkennyj619/azurewebapp.git"
  },
  "author": "sam.kennyj@3i-infotechconsultancy.com",
  "license": "ISC",
  "bugs": {
-    "url": "https://github.com/samkennyj619/web-app--002.git/issues"
+    "url": "https://github.com/samkennyj619/azurewebapp.git/issues"
  },
- "homepage": "https://github.com/samkennyj619/web-app--002.git#readme",
+ "homepage": "https://github.com/samkennyj619/azurewebapp.git#readme",
  "dependencies": {
     "live-server": "^1.2.1"
  }
