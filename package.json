@@ -1,5 +1,5 @@
 {
- "name": "your-webapp-name",
+ "name": "web-app--002",
  "version": "1.0.0",
  "description": "A simple webapp using HTML, CSS, and JavaScript",
  "main": "index.html",
@@ -9,14 +9,14 @@
  },
  "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-webapp-name.git"
+    "url": "https://github.com/samkennyj619/web-app--002.git"
  },
- "author": "Your Name <your.email@example.com>",
+ "author": "sam.kennyj@3i-infotechconsultancy.com",
  "license": "ISC",
  "bugs": {
-    "url": "https://github.com/your-username/your-webapp-name/issues"
+    "url": "https://github.com/samkennyj619/web-app--002.git/issues"
  },
- "homepage": "https://github.com/your-username/your-webapp-name#readme",
+ "homepage": "https://github.com/samkennyj619/web-app--002.git#readme",
  "dependencies": {
     "live-server": "^1.2.1"
  }
